@@ -1,2 +1,0 @@
-# PortfolioProjects
-projects for portfolio
