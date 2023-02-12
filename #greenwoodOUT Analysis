@@ -1,0 +1,4 @@
+# PortfolioProjects
+projects for portfolio
+
+This is a personal project I embarked on to get the tweet insights about a particular #tag on twitter, It was gathered that a certian Man united player was alleged to have raped his girlfriend which cost him his job and public opinion. After a year, all charges against him were dropped and to get back to the team became a problem. Using python tweet scrapper on Jupyter notebook I tracked the level of engagments the tweet received. The insights gathered are so important as the parties(Team and player) in question can use to guide their decision making and get the wider public opinion on the issue on ground
